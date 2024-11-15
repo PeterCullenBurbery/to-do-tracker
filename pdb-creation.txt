@@ -1,0 +1,4 @@
+Enter PDB name:
+to do
+Creating with PDB name--(TO_DO) and PDB admin--(TO_DO)
+Pluggable Database created successfully!
