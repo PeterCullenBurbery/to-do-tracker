@@ -1,6 +1,6 @@
 CREATE TABLE to_do (
     to_do                   VARCHAR2
-    (4000) NOT NULL UNIQUE,
+    (4000) NOT NULL,
     done                    NUMBER(
     1) DEFAULT 0 CHECK ( done IN ( 0
     , 1 ) ) NOT NULL,
